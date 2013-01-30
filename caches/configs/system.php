@@ -23,7 +23,7 @@ return array(
 'upload_path' => PHPCMS_PATH.'uploadfile/',
 'upload_url' => 'http://localhost.8kna.com/uploadfile/', //附件路径
 'attachment_stat' => '1',//是否记录附件使用状态 0 统计 1 统计， 注意: 本功能会加重服务器负担
-
+'skin_path' => '/statics/8kna', //自定义模板路径
 'js_path' => 'http://localhost.8kna.com/statics/js/', //CDN JS
 'css_path' => 'http://localhost.8kna.com/statics/css/', //CDN CSS
 'img_path' => 'http://localhost.8kna.com/statics/images/', //CDN img
